@@ -1,0 +1,16 @@
+body {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.opacity {
+    opacity: 0.5;
+}
